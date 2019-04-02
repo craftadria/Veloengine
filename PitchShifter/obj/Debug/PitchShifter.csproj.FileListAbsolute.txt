@@ -1,0 +1,11 @@
+C:\Users\Adrià\Documents\Visual Studio 2015\Projects\VELOENGINE_AdventureGame\PitchShifter\bin\Debug\PitchShifter.exe.config
+C:\Users\Adrià\Documents\Visual Studio 2015\Projects\VELOENGINE_AdventureGame\PitchShifter\bin\Debug\test.mp3
+C:\Users\Adrià\Documents\Visual Studio 2015\Projects\VELOENGINE_AdventureGame\PitchShifter\bin\Debug\PitchShifter.exe
+C:\Users\Adrià\Documents\Visual Studio 2015\Projects\VELOENGINE_AdventureGame\PitchShifter\bin\Debug\PitchShifter.pdb
+C:\Users\Adrià\Documents\Visual Studio 2015\Projects\VELOENGINE_AdventureGame\PitchShifter\bin\Debug\CSCore.dll
+C:\Users\Adrià\Documents\Visual Studio 2015\Projects\VELOENGINE_AdventureGame\PitchShifter\obj\Debug\PitchShifter.csprojResolveAssemblyReference.cache
+C:\Users\Adrià\Documents\Visual Studio 2015\Projects\VELOENGINE_AdventureGame\PitchShifter\obj\Debug\PitchShifter.MainForm.resources
+C:\Users\Adrià\Documents\Visual Studio 2015\Projects\VELOENGINE_AdventureGame\PitchShifter\obj\Debug\PitchShifter.Properties.Resources.resources
+C:\Users\Adrià\Documents\Visual Studio 2015\Projects\VELOENGINE_AdventureGame\PitchShifter\obj\Debug\PitchShifter.csproj.GenerateResource.Cache
+C:\Users\Adrià\Documents\Visual Studio 2015\Projects\VELOENGINE_AdventureGame\PitchShifter\obj\Debug\PitchShifter.exe
+C:\Users\Adrià\Documents\Visual Studio 2015\Projects\VELOENGINE_AdventureGame\PitchShifter\obj\Debug\PitchShifter.pdb
